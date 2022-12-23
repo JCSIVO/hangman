@@ -1,17 +1,17 @@
 # hangman
 Recreation of the hangman game
 
+// Development of the Hangman game (HangMan) in C# by JCSIVO (12-23-2022).
 
-// Elaboración del juego del Ahorcado (HangMan) en C# por JCSIVO (23-12-2022).
-
-// Lógica del programa.
+// Program logic.
 /*
-* 1. De un conjunto de palabras prefijadas, el equipo coge una al azar. 
-* 2. La palabra escogida en el punto anterior se muestra como oculta y muestra una serie de guiones (--- ---).
-* 3. El usuario elige una letra
-* 4. Se comprueba si la letra introducida forma parte de la escogida al azar y 
-*    en caso de que NO, el usuario pierde un intento del total de la palabra. 
-* 5. Si la letra SI forma parte, el jugador no pierde ningún intento y esa palabra es sustituida por los guiones correspondientes. 
-* 6. El programa debe de estar dentro de una estructura de repetición (desde el punto dos), hasta que el usuario 
-*    acierta TODA la palabra o se queda sin INTENTOS.
+* 1. From a set of prefixed words, the team picks one at random.
+* 2. The word chosen in the previous point is shown as hidden and shows a series of hyphens (--- ---).
+* 3. The user chooses a letter
+* 4. It checks if the letter entered is part of the one chosen at random and
+* in case NO, the user loses a total attempt of the word.
+* 5. If the letter SI is part, the player does not lose any attempt and that word is replaced by the corresponding hyphens.
+* 6. The program must be within a repetition structure (from point two), until the user
+* hit ALL the word or run out of TRIES.
 */
+
