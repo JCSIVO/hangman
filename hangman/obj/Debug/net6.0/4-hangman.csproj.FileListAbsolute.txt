@@ -1,0 +1,15 @@
+/Users/joseconejerosivo/Proyectos C#/4-hangman/bin/Debug/net6.0/4-hangman
+/Users/joseconejerosivo/Proyectos C#/4-hangman/bin/Debug/net6.0/4-hangman.deps.json
+/Users/joseconejerosivo/Proyectos C#/4-hangman/bin/Debug/net6.0/4-hangman.runtimeconfig.json
+/Users/joseconejerosivo/Proyectos C#/4-hangman/bin/Debug/net6.0/4-hangman.dll
+/Users/joseconejerosivo/Proyectos C#/4-hangman/bin/Debug/net6.0/4-hangman.pdb
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.csproj.AssemblyReference.cache
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.AssemblyInfo.cs
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.csproj.CoreCompileInputs.cache
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.dll
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/refint/4-hangman.dll
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.pdb
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/4-hangman.genruntimeconfig.cache
+/Users/joseconejerosivo/Proyectos C#/4-hangman/obj/Debug/net6.0/ref/4-hangman.dll
